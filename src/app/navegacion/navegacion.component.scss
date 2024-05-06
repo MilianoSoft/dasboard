@@ -1,13 +1,22 @@
+.img-fluid{
+  width: 100%;
+  height: 100%;
+}
 .sidenav-container {
   height: 100%;
+}
+.header{
+  background-color:#F05A36;
 }
 
 .sidenav {
   width: 200px;
+  background-color: #6E87FF;
 }
 
 .sidenav .mat-toolbar {
   background: inherit;
+  background-color:#F05A36;
 }
 
 .mat-toolbar.mat-primary {
